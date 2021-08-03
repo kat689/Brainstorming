@@ -1,0 +1,7 @@
+doctors chatroom:people should be able to talk to the doctor and consult regarding their problems.
+meditationapp:helps relax,perform excersises for stress relief,listen to soothing music.
+thecolorswatchapp:select colors according to your preference to design your room.
+audioplayer:tracks audio files in your device and plays them.
+converter:currency,mass,length,temperature,hours converter.
+expensetracker:keep a track of your purchases and limit your purchases also,analyse your expenses and stay in a budget.
+recipesapp:look at different cuisines, take pictures and upload your creations.
